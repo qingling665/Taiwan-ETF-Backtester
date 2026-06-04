@@ -1,0 +1,12 @@
+# Python 產生的暫存檔
+__pycache__/
+*.pyc
+
+# C++ 編譯出來的執行檔與動態連結庫
+*.dll
+*.exe
+*.o
+
+# 作業系統或編輯器產生的隱藏檔
+.vscode/
+.DS_Store
